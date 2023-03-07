@@ -1,0 +1,51 @@
+1. Qué entendes por Document? ¿Qué sería dentro de nuestra página?
+
+2. ¿Cuál es la diferencia entre querySelectorAll y querySelector? ¿En qué casos usarías una y la otra?
+
+3. Selecciona un párrafo por con ID = "parrafo"  utilizando getElementById y cambia su texto utilizando textContent.
+
+4. Selecciona un párrafo por con ID = "parrafo"  utilizando getElementById y cambia su texto utilizando innerHTML.
+
+5. ¿Cuál es la diferencia entre textContent e innerHTML?
+
+6. Al párrafo agregale una clase "color-verde"
+
+7. Teniendo en cuenta el siguiente HTML (omito el <head> <body> y demás):
+<h1>ADRs caen hasta 6% condicionados por Wall Street tras discurso de Powell</h1>
+<p>Los papeles argentinos en Nueva York ceden este martes 7 de marzo condicionados por Wall Street tras discurso de Jerome Powell que dio señales sobre las tasas. A su vez, los bonos soberanos en dólares cambian la tendencia que habían logrado tras el anuncio de Sergio Massa sobre el canje de deuda y operan con bajas de hasta 3%. En ese contexto, el riesgo país se sostiene encima de los 2.000 puntos.</p>
+
+a. Agregale un subtitulo (h2) que diga "Los descensos están marcados por Wall Street que pierde casi 1% tras el discurso de Powell donde ratificó que habrá más subas de tasas de interés hasta combatir la inflación."
+b. Al subtitulo ponelo en color rojo.
+c. Cambia el contenido del titulo para que sea "Los ADRs caen un 6%"
+d. Antes del título agregale una línea horizontal
+e. Debajo del párrafo agrega un párrafo que esté en letras maýusculas, con un color de fondo rojo y color de fuente blanco. La leyenda será "ULTIMO MOMENTO"
+f. A todos los párrafos dale un estilo cursiva.
+
+8. Teniendo en cuenta el siguiente vector ["Jabón", "zanahoria", "rúcula", "pasta dental", "papas"] - Generá:
+a. Un título (h2) que diga "Lista de compras"
+b. Loopea por medio de un ciclo a cada uno de los elementos del vector y mostralos como una lista desordenada.
+
+9. Teniendo en cuenta el siguiente vector "estudiantes" [
+{id: 1, nombre: "Ludmila", nota: 8},
+{id: 2, nombre: "Roxy", nota: 6},
+{id: 3, nombre: "Sebastián", nota: 2},
+{id: 4, nombre: "Sandra", nota: 9},
+{id: 5, nombre: "Ramón", nota: 10},
+{id: 6, nombre: "Liz", nota: 1},
+]
+a. Crea un listado ordenado (ol) de los estudiantes.
+b. A los que tengan nota entre 1 y 5 que tenga la clase "rojo"
+c. A los que tengan nota entre 6 y 8 que tenga la clase "amarillo" 
+d. A los que tengan nota entre 9 y 10 que tenga la clase "verde"
+e. Agregá un párrafo que diga Promedio: (y acá iría el promedio). Éste debe estar con negrita
+f. Ahora solo mostrá los ID pares.
+
+
+10. ¿Para qué se usa el addEventListener? Buscá eventos que se puedan utilizar además del click.
+
+11. Armá un título, un párrafo y un botón. Cuando el usuario haga click sobre el botón cambiá los textos de posición:
+El que le pertenecía al título que pase a ser el párrafo y viceversa.
+
+12. Armá un HTML con un titulo de color negro y un botón. El fondo por defecto será blanco. El nombre del botón será "Dark mode". 
+	Cuando presiones el botón el color del fondo cambiará a negro, las letras del título a blanco y el botón pasará a llamarse "Light Mode"
+	
